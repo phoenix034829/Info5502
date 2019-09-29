@@ -1,0 +1,101 @@
+First Name,Middle Initial,Last Name,Address,Major,Completed Credit Hours,Scholarship Received,GPA
+Pat,Corbin,Mcmahon,Unt DP,MBA,15,TRUE,3.70 
+Truman,Mikaela,Holquin,Unt Main Campus,MS,18,FALSE,3.20 
+Gayle,Davin,Tomas,Unt DP,MA,9,TRUE,3.60 
+Kirk,Donovan,Baze,Unt DP,Phd,6,FALSE,3.50 
+Sid,Carmen,Belair,Unt DP,MBA,18,TRUE,3.00 
+Miles,Conner,Mincey,Unt DP,MS,3,TRUE,3.80 
+Andreas,Jaylan,Chadburn,Unt DP,MA,21,TRUE,3.60 
+Wilber,Tyree,Matthews,Unt DP,Phd,24,TRUE,3.30 
+Gerardo,Cyrus,Mood,Unt DP,MBA,30,TRUE,3.50 
+Elvis,Deja,Bigler,Unt DP,MS,18,TRUE,3.00 
+Percy,Karlee,Baumbach,Unt Main Campus,MA,3,TRUE,3.80 
+Stevie,Raphael,Abdul,Unt Main Campus,Phd,21,TRUE,3.60 
+Craig,Riley,Magallanes,Unt Main Campus,MBA,18,TRUE,3.70 
+Evan,Trevor,Abe,Unt Main Campus,MS,9,FALSE,3.20 
+Emory,Kaila,Sockwell,Unt Main Campus,MA,6,FALSE,3.60 
+Geraldo,Gretchen,Rosel,Unt Main Campus,Phd,18,FALSE,3.50 
+Carter,Eduardo,Speight,Unt Main Campus,MBA,3,FALSE,3.40 
+Kareem,Kamila,Kapoor,Unt Main Campus,MS,18,FALSE,3.40 
+Cameron,Nikolas,Bernhard,Unt Main Campus,MBA,3,TRUE,3.00 
+Joseph,Gregory,Gross,Unt Main Campus,MS,21,TRUE,3.80 
+Wilford,Leia,Harnish,Unt Main Campus,MA,24,TRUE,3.60 
+Seymour,August,Galaviz,Unt DP,Phd,30,FALSE,3.70 
+Omer,Cali,Poulos,Unt DP,MBA,18,FALSE,3.20 
+Bobbie,Aarav,Cloninger,Unt DP,MS,3,FALSE,3.60 
+Horace,Scarlett,Mcglothlen,Unt DP,MA,21,TRUE,3.50 
+Zachariah,Kenna,Mullins,Unt DP,Phd,24,FALSE,3.40 
+Rhett,Victoria,Rosado,Unt DP,MBA,30,FALSE,3.40 
+Rodolfo,Lorelai,Nimmo,Unt DP,MS,18,TRUE,3.50 
+Arlie,Amya,Sundberg,Unt DP,MA,3,FALSE,3.00 
+Rueben,Evan,Tillotson,Unt DP,Phd,21,TRUE,3.80 
+Ira,Ethen,Lovell,Unt Main Campus,MBA,24,TRUE,3.60 
+Alonzo,Kameron,Rubi,Unt Main Campus,MBA,30,TRUE,3.30 
+Bud,Brooklynn,Patrick,Unt Main Campus,MS,18,TRUE,3.50 
+Benton,Warren,Demars,Unt Main Campus,MA,3,FALSE,3.00 
+Larry,Fernando,Grothe,Unt DP,Phd,21,FALSE,3.80 
+Milford,Cory,Zambrano,Unt DP,MBA,24,TRUE,3.60 
+Adolfo,Jerry,Conlin,Unt DP,MS,18,TRUE,3.70 
+Johnathon,Elle,Giel,Unt Main Campus,MA,3,TRUE,3.20 
+Gavin,Vicente,Collier,Unt Main Campus,Phd,21,TRUE,3.60 
+Buford,Layton,Primm,Unt Main Campus,MBA,18,FALSE,3.50 
+Alvin,Paris,Garmany,Unt DP,MS,9,FALSE,3.40 
+Val,Waylon,Tack,Unt Main Campus,MA,6,TRUE,3.40 
+Jack,Ruth,Polzin,Unt Main Campus,Phd,18,FALSE,3.00 
+Lanny,Rodney,Fout,Unt DP,MBA,3,FALSE,3.80 
+Jody,Cedric,Plumadore,Unt DP,MS,18,FALSE,3.60 
+Gaston,Maxim,Peabody,Unt DP,MA,3,TRUE,3.80 
+Josef,Helena,Hibbler,Unt Main Campus,Phd,21,FALSE,3.60 
+Quentin,Luciano,Archer,Unt Main Campus,MBA,18,FALSE,3.70 
+Tod,Silas,Otis,Unt DP,MS,3,TRUE,3.20 
+Boyd,Wilson,Maday,Unt Main Campus,MBA,21,FALSE,3.60 
+Terri,Alonso,Boomhower,Unt Main Campus,MBA,24,TRUE,3.50 
+Shondra,Jada,Sauls,Unt DP,MS,30,TRUE,3.40 
+Kenyetta,Natalee,Pleasant,Unt Main Campus,MA,18,TRUE,3.40 
+Claudine,Aleah,Keatts,Unt Main Campus,Phd,3,TRUE,3.00 
+Janel,Nathanael,Cutright,Unt Main Campus,MBA,21,FALSE,3.80 
+Maisie,Mason,Claflin,Unt DP,MS,18,FALSE,3.60 
+Michelle,Jasper,Kamin,Unt Main Campus,MA,9,TRUE,3.70 
+Drucilla,Rafael,Oshiro,Unt DP,Phd,6,FALSE,3.20 
+Wilhemina,Kolton,Dear,Unt DP,MBA,18,FALSE,3.60 
+Caitlyn,Alvin,Weisenberger,Unt DP,MS,3,TRUE,3.50 
+Domitila,Kaydence,Winans,Unt Main Campus,MA,18,FALSE,3.40 
+Jenice,Estrella,Canizales,Unt Main Campus,MBA,3,FALSE,3.40 
+Verena,Naima,Lamica,Unt DP,MS,21,FALSE,3.80 
+Dwana,Hope,Odell,Unt Main Campus,MA,24,TRUE,3.60 
+Lesli,Abraham,Brazel,Unt Main Campus,Phd,30,FALSE,3.70 
+Silvia,Alexus,Quackenbush,Unt DP,MBA,18,FALSE,3.20 
+Conchita,Lana,Sauders,Unt Main Campus,MS,3,TRUE,3.60 
+Sherryl,Emily,Forry,Unt Main Campus,MA,21,FALSE,3.50 
+Dulce,Sydney,Zukowski,Unt DP,Phd,24,TRUE,3.40 
+Asia,Reese,Yohe,Unt DP,MBA,30,TRUE,3.40 
+Luetta,Alessandra,Spence,Unt DP,MS,18,FALSE,3.40 
+Julissa,Chandler,Walch,Unt Main Campus,MBA,3,TRUE,3.50 
+Sabina,Rolando,Prager,Unt Main Campus,MS,21,TRUE,3.00 
+Monique,Cloe,Danforth,Unt DP,MS,24,TRUE,3.80 
+Alane,Armando,Parikh,Unt Main Campus,MS,30,FALSE,3.60 
+Ferne,Amari,Tolliver,Unt Main Campus,MS,18,FALSE,3.30 
+Rossie,Bailey,Danley,Unt DP,MS,3,FALSE,3.50 
+Starla,Vincent,Poche,Unt Main Campus,MS,21,TRUE,3.00 
+Bethann,Keon,Metcalf,Unt Main Campus,MS,24,FALSE,3.80 
+Barbara,Eduardo,Goebel,Unt DP,MS,18,FALSE,3.60 
+Camilla,Kolby,Sandiford,Unt DP,MS,3,TRUE,3.70 
+Stephanie,Odin,Fludd,Unt DP,MS,21,FALSE,3.20 
+Lovetta,Phoebe,Irons,Unt Main Campus,MS,18,TRUE,3.60 
+Joana,Ignacio,Sindelar,Unt Main Campus,MS,24,TRUE,3.50 
+Edra,Noemi,Guerrant,Unt DP,MS,30,TRUE,3.40 
+Jennifer,Gauge,Czerwinski,Unt Main Campus,MS,18,FALSE,3.40 
+Ilona,Theodore,Vangieson,Unt Main Campus,MS,3,FALSE,3.00 
+Britni,Siena,Alvord,Unt DP,MS,21,TRUE,3.80 
+Lenora,Quintin,Arambula,Unt Main Campus,MS,24,FALSE,3.60 
+Debi,Keyla,Weigand,Unt Main Campus,MS,30,TRUE,3.80 
+Erika,Raymond,Daum,Unt DP,MA,18,TRUE,3.40 
+Donetta,Judith,Fukuda,Unt DP,Phd,3,TRUE,3.40 
+Phyliss,Angelique,Shawl,Unt DP,MBA,21,FALSE,3.00 
+Alix,Peyton,Wren,Unt Main Campus,MS,24,FALSE,3.80 
+Jung,Matias,Speece,Unt Main Campus,MBA,18,TRUE,3.60 
+Salome,Vincent,Casiano,Unt DP,MS,3,FALSE,3.80 
+Iliana,Roderick,Bourke,Unt Main Campus,MS,21,TRUE,3.00 
+Rafaela,Riya,Welden,Unt Main Campus,MS,18,TRUE,3.80 
+Nan,Lucia,Dinkins,Unt DP,MS,3,TRUE,3.60 
+Theresa,Sloane,Throckmorton,Unt Main Campus,MS,21,TRUE,3.80 
